@@ -13,9 +13,3 @@ gcc electricity_bill.c -o electricity_bill
 ```bash
 ./electricity_bill
 ```
-
-## Example
-```
-Enter electricity consumption (in kWh): 150
-Total electricity bill: 600.00 DZD
-```
